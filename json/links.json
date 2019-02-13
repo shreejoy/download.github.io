@@ -1,0 +1,13 @@
+[
+    {
+      "color": "skyblue",
+      "icon": "email-open",
+      "url": "mailto:google@gmail.com"
+	},
+    {
+        "color": "#DDA0DD",
+        "icon": "dribbble",
+        "url": "https://dribbble.com"
+	}
+
+]
